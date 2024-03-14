@@ -19,7 +19,7 @@
 
 ### 𝚆𝚑𝚊𝚝 𝙸 𝚞𝚜𝚎 𝚍𝚊𝚒𝚕𝚢...
 
-`php` • `javascript` • `html` • `css` • `vue.js` • `react` • `jquery` • `mysql` • `photoshop`
+`php` • `javascript` • `html` • `css` • `vue.js` • `react` • `node.js` • `jquery` • `mysql` • `photoshop`
 
 ###
 
