@@ -7,7 +7,8 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/giovannalemeamadeu" target="_blank">
+  <a href="https://www.linkedin.com/in/giovanna-leme-
+amadeu-895b5b277" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"/></a>
   <img src="https://img.shields.io/static/v1?message=gi.gio&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"/>
   <a href="https://github.com/Giigio">
