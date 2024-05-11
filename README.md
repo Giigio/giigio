@@ -20,7 +20,7 @@ amadeu-895b5b277" target="_blank">
 
 ### 𝚆𝚑𝚊𝚝 𝙸 𝚞𝚜𝚎 𝚍𝚊𝚒𝚕𝚢...
 
-`php` • `javascript` • `html` • `css` • `vue.js` • `react` • `next.js` • `node.js` • `jquery` • `mysql` • `photoshop`
+`javascript` • `html` • `css` • `tailwind` • `typescript` •  `react.js` • `next.js` • `node.js` • `firebase` • `php` • `mysql` • `photoshop` • `figma`
 
 ###
 
