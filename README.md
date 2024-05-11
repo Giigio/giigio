@@ -35,6 +35,7 @@ amadeu-895b5b277" target="_blank">
 𝙸 𝚕𝚘𝚟𝚎 𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚎𝚡𝚌𝚑𝚊𝚗𝚐𝚒𝚗𝚐 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 𝚠𝚒𝚝𝚑 𝚍𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝 𝚙𝚎𝚘𝚙𝚕𝚎! 𝙸𝚏 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚜𝚊𝚢 𝚑𝚒, 𝙸'𝚕𝚕 𝚋𝚎 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚌𝚑𝚊𝚝 𝚠𝚒𝚝𝚑 𝚢𝚘𝚞!
 
 ###
+</br>
 <div align="center">
   <img height="110" src="https://media4.giphy.com/media/MEXemG2kzzvKqDcaAK/200.webp?cid=790b7611tig4wdogdle2m141atzs34i8a4n8lq25urfx5dah&ep=v1_stickers_search&rid=200.webp&ct=s"> 
   </br>
